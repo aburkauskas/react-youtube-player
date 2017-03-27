@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Simple play ground for redux.
+Simple play ground for ReactJs.
 
 That simple app is like youtuve clone, to search list and play youtube videos.
 
