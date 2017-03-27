@@ -1,9 +1,11 @@
-# ReduxSimpleStarter
+# ReactJS Simple Player
 
-Simple play ground for ReactJs.
+##Purpose: play ground for ReactJs exploration.
 
-That simple app is like youtuve clone, to search list and play youtube videos.
+##About project:
 
-I was using youtube-search-api for that.
+That simple app is like youtube clone, to search list and play youtube videos.
+
+Check package.json for packages were used.
 
 Simple, fast and nothing special <3.
